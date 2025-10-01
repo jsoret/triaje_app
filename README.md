@@ -1,5 +1,4 @@
 # SYSTEM TRIAGE 
-sistema para triaje medico
 
 # Diagramas del Modelo de Datos
 
